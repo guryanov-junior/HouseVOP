@@ -1,0 +1,41 @@
+/* Footer styles start */
+.footer {
+	background: #2D343C;
+}
+.footer__wrapper {}
+.wrapper {}
+.footer__body {
+	font-family: 'Raleway';
+	padding: 60px 0 51px 0;
+	display: flex;
+	justify-content: space-between;
+	font-size: 14px;
+	line-height: 16px;
+	letter-spacing: 0.05em;
+}
+
+.menu li {
+	margin-bottom: 15px;
+	&:last-child {
+		margin-bottom: 0;
+	}
+}
+.footer__logo {
+}
+.footer__menu-first {}
+.footer__menu-first-items {}
+.footer__menu-first-item {}
+.footer__menu-second {}
+.footer__menu-second-items {}
+.footer__menu-second-item {}
+.footer__contacts {
+	p {
+		margin-bottom: 15px;
+	}
+}
+.footer__contacts-feedback {
+	a:not(:last-child) {
+		margin-right: 20px;
+	}
+}
+/* Footer styles end */
