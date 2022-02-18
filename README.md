@@ -6,9 +6,9 @@
 
 </br>
 
-## Описание
+## Description
 
-#### Пример вёрстки сайта по макету с помощью **Figma**
+#### An example of site layout according to the layout using Figma
 
 </br>
 
